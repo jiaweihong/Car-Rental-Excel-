@@ -10,15 +10,15 @@ Find the optimal number of cars to be placed at each depot every morning, the nu
 https://www.youtube.com/watch?v=8j5E6qHwKsE
 
 ## Images:
-Data Column:
+### Data Column: <br />
 ![Data](/data.png)
 
-Functional Constraints Column:
+### Functional Constraints Column: <br />
 ![Functional Constraints](/functional-constraints.png)
 
-Decision / Intermediate Variable Column:
+### Decision / Intermediate Variable Column: <br />
 ![Decision Variables](/decision-variables.png)
 
-Objective Function Column:
+### Objective Function Column: <br />
 ![Objective Function](/objective-function.png)
 
